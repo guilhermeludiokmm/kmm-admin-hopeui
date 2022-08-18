@@ -1,5 +1,5 @@
 {
-  "name": "kmm-admin-hopeui",
+  "name": "@kmm-dev/kmm-hopeui",
   "version": "1.0.1",
   "description": "kmm admin hope ui template",
   "main": "index.js",
