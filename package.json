@@ -1,0 +1,20 @@
+{
+  "name": "kmm-admin-hopeui",
+  "version": "1.0.0",
+  "description": "kmm admin hope ui template",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng test",
+    "version-publish": "npm version patch && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermeludiokmm/kmm-admin-hopeui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermeludiokmm/kmm-admin-hopeui/issues"
+  },
+  "homepage": "https://github.com/guilhermeludiokmm/kmm-admin-hopeui#readme"
+}
